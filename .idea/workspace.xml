@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19e6866a-3ff8-41bf-b771-27c7bdfa00fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagrammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="19e6866a-3ff8-41bf-b771-27c7bdfa00fc" name="Changes" comment="Working array storage for a string, starting from scratch instead of from pallindrome">
+      <change beforePath="$PROJECT_DIR$/src/Anagrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anagrammer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663963913998</updated>
     </task>
+    <task id="LOCAL-00001" summary="Working array storage for a string, starting from scratch instead of from pallindrome">
+      <created>1663964519078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663964519078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,5 +56,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working array storage for a string, starting from scratch instead of from pallindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working array storage for a string, starting from scratch instead of from pallindrome" />
   </component>
 </project>
